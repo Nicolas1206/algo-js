@@ -1,4 +1,8 @@
 const readlineSync = require("readline-sync");
+/**
+ * 
+ * @returns 
+ */
 function askTvSerie(){
     let n = readlineSync.question("How many cast members? ");
     let array = [];
