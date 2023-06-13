@@ -27,5 +27,3 @@ function randomizeCast(tvSerie){
 let answer = askTvSerie();
 let randomizer = randomizeCast(answer);
 console.log(randomizer);
-
-
